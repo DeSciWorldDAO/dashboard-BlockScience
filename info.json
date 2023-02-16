@@ -3,13 +3,13 @@
 "DaoOS":"Snapshot",
 "address":"",
 "description":"BlockScience® is a complex systems engineering, R&D, and analytics firm. Our goal is to combine academic-grade research with advanced mathematical and computational engineering to design safe and resilient socio-technical systems. We provide engineering, design, and analytics services to a wide range of clients, including for-profit, non-profit, academic, and government organizations, and contribute to open-source research and software development. ",
-"whitePaperLink":"",
+"whitePaperLink":"https://blockscience.ghost.io/",
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://www.youtube.com/embed/@BlockScience/videos",
+       "mediaUrl": "https://www.youtube.com/embed/E_Y2IpKrqZw",
        "source": "youtube",
-       "link": "https://www.youtube.com/watch?v=@BlockScience/videos"
+       "link": "https://www.youtube.com/watch?v=E_Y2IpKrqZw"
    }
 ],
 "deleted":false,
