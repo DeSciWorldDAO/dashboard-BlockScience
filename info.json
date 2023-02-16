@@ -1,1 +1,33 @@
+{"name":"BlockScience",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"BlockScience® is a complex systems engineering, R&D, and analytics firm. Our goal is to combine academic-grade research with advanced mathematical and computational engineering to design safe and resilient socio-technical systems. We provide engineering, design, and analytics services to a wide range of clients, including for-profit, non-profit, academic, and government organizations, and contribute to open-source research and software development. ",
+"whitePaperLink":"https://block.science/resources",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.youtube.com/embed/BlockScience",
+       "source": "image",
+       "link": "https://www.youtube.com/c/BlockScience"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://blockscience.ghost.io/",       
+       "source": "image",
+       "link": " https://blockscience.ghost.io/"  }
+],
+"deleted":false,
+"primaryColor":"",
+"twitterHandle":"https://twitter.com/block_science",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/SI5KmWD.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://block.science/",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["Focused Research", "Publishing", "Ecosystems", "Blockchain protocols", "Philanthropy"]
+  
+}
