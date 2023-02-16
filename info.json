@@ -7,9 +7,9 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://www.youtube.com/embed/BlockScience",
+       "mediaUrl": "https://www.youtube.com/embed/@BlockScience/videos",
        "source": "image",
-       "link": "https://www.youtube.com/c/BlockScience"
+       "link": "https://www.youtube.com/watch?v=@BlockScience/videos"
    },  {"name": "Intro",
        "description": "Intro",
        "mediaUrl": " https://blockscience.ghost.io/",       
